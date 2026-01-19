@@ -12,7 +12,8 @@ $${\color{#82f484} ⊹˚₊‧•┈┈┈┈୨୧┈┈┈┈•‧₊˚⊹}$$
 
 ![Static Badge](https://img.shields.io/badge/balloon-balloon?logo=gleam&logoColor=%23c682f4&label=silly&labelColor=grey&color=%2382f484)
 
-pix
+![I5MxI3Y](https://github.com/user-attachments/assets/38572379-851f-4998-899e-1f82da823e49)
+
 
 
 $${\color{#c682f4} .𖥔 \space name \space ! \space ⋆.˚}$$
@@ -25,13 +26,13 @@ divi
 <details>
 <summary> $${\color{#f4f183} ⌗ ゛ \space about \space me \space !}$$ </summary>
 
-
+![aOLKyZu](https://github.com/user-attachments/assets/c6afddc2-bba0-4f11-b6f1-df57c8a6cdc0)
 ₊˚ ┊ bullet one
 
-
+![aOLKyZu](https://github.com/user-attachments/assets/c6afddc2-bba0-4f11-b6f1-df57c8a6cdc0)
 ₊˚ ┊ bullet two
 
-
+![aOLKyZu](https://github.com/user-attachments/assets/c6afddc2-bba0-4f11-b6f1-df57c8a6cdc0)
 ₊˚ ┊ bullet three
 
   
@@ -40,13 +41,13 @@ divi
 <details>
 <summary> $${\color{#82f484} ⇒ \space dni \space ! }$$ </summary>
 
-
+![6bGqo4b](https://github.com/user-attachments/assets/b5d4acf7-4fbe-4f8d-95fb-5a4387b51d44)
 ₊˚ ┊ bullet one
 
-
+![6bGqo4b](https://github.com/user-attachments/assets/b5d4acf7-4fbe-4f8d-95fb-5a4387b51d44)
 ₊˚ ┊ bullet two
 
-
+![6bGqo4b](https://github.com/user-attachments/assets/b5d4acf7-4fbe-4f8d-95fb-5a4387b51d44)
 ₊˚ ┊ bullet three
 
 
@@ -56,12 +57,13 @@ divi
 <details>
 <summary> $${\color{#c682f4} ˖᯽˖ \space extras \space !}$$ </summary>
 
+![I5MxI3Y](https://github.com/user-attachments/assets/7e1af160-370a-412d-b290-4919b147fe65)
 ₊˚ ┊ bullet one
 
-
+![I5MxI3Y](https://github.com/user-attachments/assets/7e1af160-370a-412d-b290-4919b147fe65)
 ₊˚ ┊ bullet two
 
-
+![I5MxI3Y](https://github.com/user-attachments/assets/7e1af160-370a-412d-b290-4919b147fe65)
 ₊˚ ┊ bullet three
 
 </details>
