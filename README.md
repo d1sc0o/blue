@@ -1,29 +1,29 @@
 <div align=center>
 
 
-# $${\color{#c682f4} sym}$$
+# $${\color{#c682f4} ⊹˚₊‧•┈┈┈┈୨୧┈┈┈┈•‧₊˚⊹}$$
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4F182&width=435&lines=%E3%82%9BNows+your+chance+to+be+a+bigshot!%E3%82%9B)](https://git.io/typing-svg)
 
 img
 
 
-$${\color{#82f484} sym}$$
+$${\color{#82f484} ⊹˚₊‧•┈┈┈┈୨୧┈┈┈┈•‧₊˚⊹}$$
 
 badge
 
 pix
 
 
-$${\color{#c682f4} \space name \space ! \space }$$
+$${\color{#c682f4} .𖥔 \space name \space ! \space ⋆.˚}$$
 
-$${\color{#82f484} \space prn \space / \space prn \space :: \space prn \space / \space prn}$$
+$${\color{#82f484} ୨୧ \space prn \space / \space prn \space :: \space prn \space / \space prn \space ༘⋆}$$
 
 
 divi
 
 <details>
-<summary> $${\color{#f4f183} about \space me \space !}$$ </summary>
+<summary> $${\color{#f4f183} ⌗ ゛ \space about \space me \space !}$$ </summary>
 
 
 ₊˚ ┊ bullet one
@@ -38,7 +38,7 @@ divi
 </details>
 
 <details>
-<summary> $${\color{#82f484} dni \space ! }$$ </summary>
+<summary> $${\color{#82f484} ⇒ \space dni \space ! }$$ </summary>
 
 
 ₊˚ ┊ bullet one
@@ -54,7 +54,7 @@ divi
 </details>
 
 <details>
-<summary> $${\color{#c682f4} extras \space !}$$ </summary>
+<summary> $${\color{#c682f4} ˖᯽˖ \space extras \space !}$$ </summary>
 
 ₊˚ ┊ bullet one
 
@@ -66,6 +66,6 @@ divi
 
 </details>
 
-$${\color{#f4f183} sym}$$
+$${\color{#f4f183} ⊹˚₊‧•┈┈┈┈୨୧┈┈┈┈•‧₊˚⊹}$$
 
 </div>
