@@ -10,7 +10,7 @@ img
 
 $${\color{#82f484} ⊹˚₊‧•┈┈┈┈୨୧┈┈┈┈•‧₊˚⊹}$$
 
-badge
+![Static Badge](https://img.shields.io/badge/balloon-balloon?logo=gleam&logoColor=%23c682f4&label=silly&labelColor=grey&color=%2382f484)
 
 pix
 
