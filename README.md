@@ -28,8 +28,9 @@ $${\color{#c682f4} .𖥔 \space name \space ! \space ⋆.˚}$$
 
 $${\color{#82f484} ୨୧ \space prn \space / \space prn \space :: \space prn \space / \space prn \space ༘⋆}$$
 
+<img width="700" height="150" alt="2026_01_19_0pd_Kleki" src="https://github.com/user-attachments/assets/a59c6561-fc8b-4b8d-bde7-67ac0fdc176d" />
 
-divi
+
 
 <details>
 <summary> $${\color{#f4f183} ⌗ ゛ \space about \space me \space !}$$ </summary>
