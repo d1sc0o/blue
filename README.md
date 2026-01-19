@@ -1,11 +1,19 @@
 <div align=center>
 
 
+
+<img width="1226" height="468" alt="2026_01_19_0on_Kleki" src="https://github.com/user-attachments/assets/952e56ef-4abc-4f88-9733-7cf1d39857fc" />
+
+
+
+
 # $${\color{#c682f4} ⊹˚₊‧•┈┈┈┈୨୧┈┈┈┈•‧₊˚⊹}$$
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4F182&width=435&lines=%E3%82%9BNows+your+chance+to+be+a+bigshot!%E3%82%9B)](https://git.io/typing-svg)
 
-img
+<img width="700" height="600" alt="2026_01_19_0n4_Kleki" src="https://github.com/user-attachments/assets/e0cbe060-4ff2-4297-bbb4-78a3ce4a19b6" />
+
+
 
 
 $${\color{#82f484} ⊹˚₊‧•┈┈┈┈୨୧┈┈┈┈•‧₊˚⊹}$$
