@@ -3,7 +3,7 @@
 
 # $${\color{#c682f4} sym}$$
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4F183&width=435&lines=+%E3%82%9BYou+said+you+loved+me+dandy..%E3%82%9B;kawaii+loon+and+kawaii+blue+did+this)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4F182&width=435&lines=%E3%82%9BNows+your+chance+to+be+a+bigshot!%E3%82%9B)](https://git.io/typing-svg)
 
 img
 
